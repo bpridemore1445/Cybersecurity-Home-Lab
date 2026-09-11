@@ -84,7 +84,7 @@ The environment consists of two physical Windows systems with dedicated roles.
 
 ---
 
-## Current Learning Focus
+## Learning Focus
 
 ### Reverse Engineering
 - x86-64 Assembly
@@ -139,7 +139,7 @@ The environment consists of two physical Windows systems with dedicated roles.
 
 ---
 
-## Documentation Standards
+## Documentation
 
 Each project will include:
 
