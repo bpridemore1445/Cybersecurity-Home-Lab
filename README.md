@@ -43,16 +43,15 @@ The environment consists of two physical Windows systems with dedicated roles.
 - Ghidra
 - IDA Free
 - x64dbg
-- PEStudio
 - Detect It Easy (DIE)
-- Process Monitor
-- Process Explorer
+- Procmon
 
 ### Network Analysis
 - Wireshark
 - Nmap
 - NetworkMiner
 - TCPDump
+- Security Onion
 
 ### Virtualization
 - VMware Workstation Pro
